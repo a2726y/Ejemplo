@@ -3,8 +3,11 @@
 Ver ejemplo [here!](https://erikc-portfolio.vercel.app/)
 
 **EJEMPLO**
+
 __EJEMPLO__
+
 EJEMPLO
+
 
 <img width="1160" alt="Screenshot 2024-06-15 at 1 20 54 AM" src="https://github.com/Erik-Cupsa/PortfolioWebsite/assets/86483911/3158d670-8cea-428a-8308-32c6b50f4de0">
 
